@@ -1,0 +1,136 @@
+
+PS C:\Users\adamp\Education\CU Grad School\CSCI 5822 - Foundations of SE\Git HW2> git log --graph                                                      
+* commit 31f384c9aa7a890f2625c41c186e1f5a1b5dacff (HEAD -> main, origin/main, origin/HEAD)
+| Author: Adam-Prieto <adamprieto117@gmail.com>
+| Date:   Mon Feb 19 20:19:31 2024 -0700
+| 
+|     Commit # 13, this should integrate all of bug-fix
+|   
+*   commit 102c78b490af44c1a3186c823795a142fbb8cf8b
+|\  Merge: 96915bb 1ad1d30
+| | Author: Adam-Prieto <adamprieto117@gmail.com>
+| | Date:   Mon Feb 19 20:17:53 2024 -0700
+| | 
+PS C:\Users\adamp\Education\CU Grad School\CSCI 5822 - Foundations of SE\Git HW2> 
+PS C:\Users\adamp\Education\CU Grad School\CSCI 5822 - Foundations of SE\Git HW2> git log --graph
+* commit 31f384c9aa7a890f2625c41c186e1f5a1b5dacff (HEAD -> main, origin/main, origin/HEAD)
+* commit 31f384c9aa7a890f2625c41c186e1f5a1b5dacff (HEAD -> main, origin/main, origin/HEAD)
+| Author: Adam-Prieto <adamprieto117@gmail.com>
+| Date:   Mon Feb 19 20:19:31 2024 -0700
+|
+|     Commit # 13, this should integrate all of bug-fix
+|
+*   commit 102c78b490af44c1a3186c823795a142fbb8cf8b
+|\  Merge: 96915bb 1ad1d30
+| | Author: Adam-Prieto <adamprieto117@gmail.com>
+| | Date:   Mon Feb 19 20:17:53 2024 -0700
+| |
+:...skipping...
+* commit 31f384c9aa7a890f2625c41c186e1f5a1b5dacff (HEAD -> main, origin/main, origin/HEAD)
+| Author: Adam-Prieto <adamprieto117@gmail.com>
+| Date:   Mon Feb 19 20:19:31 2024 -0700
+* commit 31f384c9aa7a890f2625c41c186e1f5a1b5dacff (HEAD -> main, origin/main, origin/HEAD)
+| Author: Adam-Prieto <adamprieto117@gmail.com>
+| Date:   Mon Feb 19 20:19:31 2024 -0700
+|
+|     Commit # 13, this should integrate all of bug-fix
+|
+*   commit 102c78b490af44c1a3186c823795a142fbb8cf8b
+|\  Merge: 96915bb 1ad1d30
+| | Author: Adam-Prieto <adamprieto117@gmail.com>
+| | Date:   Mon Feb 19 20:17:53 2024 -0700
+| |
+| |     Merge remote-tracking branch 'origin/bug-fix'
+| |
+| |     # Conflicts:
+| |     #       README.md
+|\  Merge: 96915bb 1ad1d30
+| | Author: Adam-Prieto <adamprieto117@gmail.com>
+| | Date:   Mon Feb 19 20:17:53 2024 -0700
+| |
+| |     Merge remote-tracking branch 'origin/bug-fix'
+| |
+| |     # Conflicts:
+| |     #       README.md
+| |
+| * commit 1ad1d30be3861d49f269d02ecafb319c0925d856 (origin/bug-fix, bug-fix)
+| | Author: Adam-Prieto <adamprieto117@gmail.com>
+| | Date:   Mon Feb 19 20:14:53 2024 -0700
+| |
+| |     Commit #12, last for bug-fix.
+| |
+| * commit 96ce0fd7ab6e10f6c622a12fa5f6e6a6c06e676b
+| | Author: Adam-Prieto <adamprieto117@gmail.com>
+| | Date:   Mon Feb 19 20:12:58 2024 -0700
+| |
+| |     Commit #11, Merged experimental into bug-fix
+| |
+| *   commit e693526c5fb2d663f659890a583a3373e5a2f516
+| |\  Merge: 542ccd2 7d3c4c2
+| | | Author: Adam-Prieto <adamprieto117@gmail.com>
+| | | Date:   Mon Feb 19 20:10:26 2024 -0700
+| | |
+| | |     Merge remote-tracking branch 'origin/bug-fix-experimental' into bug-fix
+:
+* commit 31f384c9aa7a890f2625c41c186e1f5a1b5dacff (HEAD -> main, origin/main, origin/HEAD)
+| Author: Adam-Prieto <adamprieto117@gmail.com>
+| Date:   Mon Feb 19 20:19:31 2024 -0700
+|
+|     Commit # 13, this should integrate all of bug-fix
+|
+*   commit 102c78b490af44c1a3186c823795a142fbb8cf8b
+|\  Merge: 96915bb 1ad1d30
+| | Author: Adam-Prieto <adamprieto117@gmail.com>
+| | Date:   Mon Feb 19 20:17:53 2024 -0700
+| |
+| |     Merge remote-tracking branch 'origin/bug-fix'
+| |
+| |     # Conflicts:
+| |     #       README.md
+| |
+| * commit 1ad1d30be3861d49f269d02ecafb319c0925d856 (origin/bug-fix, bug-fix)
+| | Author: Adam-Prieto <adamprieto117@gmail.com>
+| | Date:   Mon Feb 19 20:14:53 2024 -0700
+| |
+| |     Commit #12, last for bug-fix.
+| |
+| * commit 96ce0fd7ab6e10f6c622a12fa5f6e6a6c06e676b
+| | Author: Adam-Prieto <adamprieto117@gmail.com>
+| | Date:   Mon Feb 19 20:12:58 2024 -0700
+| |
+| |     Commit #11, Merged experimental into bug-fix
+:
+* commit 31f384c9aa7a890f2625c41c186e1f5a1b5dacff (HEAD -> main, origin/main, origin/HEAD)
+| Author: Adam-Prieto <adamprieto117@gmail.com>
+| Date:   Mon Feb 19 20:19:31 2024 -0700
+|
+|     Commit # 13, this should integrate all of bug-fix
+|
+*   commit 102c78b490af44c1a3186c823795a142fbb8cf8b
+|\  Merge: 96915bb 1ad1d30
+| | Author: Adam-Prieto <adamprieto117@gmail.com>
+| | Date:   Mon Feb 19 20:17:53 2024 -0700
+| |
+| |     Merge remote-tracking branch 'origin/bug-fix'
+| |
+| |     # Conflicts:
+| |     #       README.md
+| |
+| * commit 1ad1d30be3861d49f269d02ecafb319c0925d856 (origin/bug-fix, bug-fix)
+| | Author: Adam-Prieto <adamprieto117@gmail.com>
+| | Date:   Mon Feb 19 20:14:53 2024 -0700
+| |
+| |     Commit #12, last for bug-fix.
+| |
+| * commit 96ce0fd7ab6e10f6c622a12fa5f6e6a6c06e676b
+| | Author: Adam-Prieto <adamprieto117@gmail.com>
+| | Date:   Mon Feb 19 20:12:58 2024 -0700
+| |
+| |     Commit #11, Merged experimental into bug-fix
+| |
+| *   commit e693526c5fb2d663f659890a583a3373e5a2f516
+| |\  Merge: 542ccd2 7d3c4c2
+| | | Author: Adam-Prieto <adamprieto117@gmail.com>
+| | | Date:   Mon Feb 19 20:10:26 2024 -0700
+| | |
+| | |     Merge remote-tracking branch 'origin/bug-fix-experimental' into bug-fix
