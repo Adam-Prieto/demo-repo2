@@ -8,4 +8,4 @@ CSCI 5828 - Foundations of Software Engineering\
 ## Commits and Messages
 
 
-# Git Commands Used
+## Git Commands Used
