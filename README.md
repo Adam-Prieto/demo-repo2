@@ -8,7 +8,8 @@ Homework 3\
 
 ### Commits and Messages
 Commit 0 - Try Pushing to github\
-Commit 3 - Try switching back to bug-fix and pushing
+Commit 3 - Try switching back to bug-fix and pushing\
+Commit 4 - Switching branched worked, I'm getting the hang of this! 
 
 
 ### Git Commands Used
