@@ -2,13 +2,19 @@
 
 Adam Prieto\
 CSCI 5828 - Foundations of Software Engineering\
+Homework 3\
 21 Februrary 2024
 
 
-## Commits and Messages
-Commit 0 - Try Pushing to github
+### Commits and Messages
+Commit 0 - Try Pushing to github\
+Commit 3 - Try switching back to bug-fix and pushing
 
-## Git Commands Used
+
+### Git Commands Used
 git add . -- prepares all files for pushing to github\
-git commit - m " < message here > " -- commits files with message\
-git push - u < remote destination > -- pushes all files to a remote github repo
+git status -- gets status of branch (is it up to date, committed, etc.)\
+git commit -m " < message here > " -- commits files with message\
+git push -u < remote destination > -- pushes all files to a remote github repo
+git checkout - b " < branch name here > " -- creates a new branch\
+git checkout < branch name here > -- switches branch
