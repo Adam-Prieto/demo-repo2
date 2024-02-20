@@ -31,7 +31,10 @@ git commit -m " < message here > " -- commits files with message\
 git push -u < remote destination > -- pushes all files to a remote github repo\
 git checkout -b " < branch name here > " -- creates a new branch\
 git checkout < branch name here > -- switches branch\
-git log --graph -- displays a commit graph of the contributions in the terminal. 
+git log --graph -- displays a commit graph of the contributions in the terminal.\ 
+git log --all --decorate --oneline --graph  -- generates full commit graph with colors in terminal.
+
+
 
 ### Note
 My screenshot was unable to capture the entire commit history as the commit graph was too large; having said that, 
