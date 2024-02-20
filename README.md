@@ -17,7 +17,8 @@ Commit 6 - Merged and fixed all changes from main into bug-fix\
 Commit 7 - Switching back to bug-fix-experimental to finish it off.\
 Commit 8 - Successfully switched back to bug-fix-experimental.\
 Commit 9 - Last Commit for bug-fix-experimental.\
-Commit 11 - Merged bug-fix-experimental into bug-fix
+Commit 11 - Merged bug-fix-experimental into bug-fix\
+Commit 12 - Merge was successful, this will finish off bug-fix.
 
 ### Git Terminal Commands Used
 clear -- clears terminal
