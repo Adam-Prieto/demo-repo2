@@ -12,8 +12,8 @@ Commit 1 - bug-fix branch created, trying to switch back to master
 Commit 2 - Successfully switched back to master and pushed. Yaay!
 Commit 3 - Try switching back to bug-fix and pushing\
 Commit 4 - Switching branched worked, I'm getting the hang of this!\
-Commit 5 - Created bug-fix-experimental branch, please let this branch be different than other branches.
-
+Commit 5 - Created bug-fix-experimental branch, please let this branch be different than other branches.\
+Commit 6 - Merged and fixed all changes from main into bug-fix
 
 ### Git Commands Used
 git add . -- prepares all files for pushing to github\
