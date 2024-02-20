@@ -19,10 +19,11 @@ Commit 8 - Successfully switched back to bug-fix-experimental.\
 Commit 9 - Last Commit for bug-fix-experimental.\
 Commit 10 - Switched back to main.
 Commit 11 - Merged bug-fix-experimental into bug-fix\
-Commit 12 - Merge was successful, this will finish off bug-fix.
+Commit 12 - Merge was successful, this will finish off bug-fix.\
+Commit 13 - Merged bug-fix into main/master and hope the push works. 
 
 ### Git Terminal Commands Used
-clear -- clears terminal
+clear -- clears terminal\
 git add . -- prepares all files for pushing to github\
 git status -- gets status of branch (is it up to date, committed, etc.)\
 git commit -m " < message here > " -- commits files with message\
