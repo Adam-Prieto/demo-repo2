@@ -7,10 +7,12 @@ CSCI 5828 - Foundations of Software Engineering\
 
 ## Commits and Messages
 Commit 0 - Try Pushing to github\
-Commit 1 - bug-fix branch created, trying to switch back to master
-Commit 2 - Successfully switched back to master and pushed. Yaay!
+Commit 1 - bug-fix branch created, trying to switch back to master.\
+Commit 2 - Successfully switched back to master and pushed. Yaay!\
+Commit 10 - Switched back to main.
 
 ## Git Commands Used
+clear - clears terminal\
 git add . -- prepares all files for pushing to github\
 git status -- gets status of branch (is it up to date, committed, etc.)\
 git commit - m " < message here > " -- commits files with message\
