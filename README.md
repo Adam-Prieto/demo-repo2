@@ -9,13 +9,14 @@ Homework 3\
 ### Commits and Messages
 Commit 0 - Try Pushing to github\
 Commit 3 - Try switching back to bug-fix and pushing\
-Commit 4 - Switching branched worked, I'm getting the hang of this! 
+Commit 4 - Switching branched worked, I'm getting the hang of this!\ 
+Commit 5 - Created bug-fix-experimental branch, please let this branch be different than other branches.
 
 
 ### Git Commands Used
 git add . -- prepares all files for pushing to github\
 git status -- gets status of branch (is it up to date, committed, etc.)\
 git commit -m " < message here > " -- commits files with message\
-git push -u < remote destination > -- pushes all files to a remote github repo
+git push -u < remote destination > -- pushes all files to a remote github repo\
 git checkout - b " < branch name here > " -- creates a new branch\
 git checkout < branch name here > -- switches branch
